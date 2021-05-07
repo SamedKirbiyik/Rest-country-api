@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: #334;
+    background-color:#eef;
+}
+h1{
+    text-align: center;
+}
+#main-container{
+    width:420px;
+    margin: 30px auto;
+    padding: 10px;
+}
+#flag-container{
+    height: 250px;
+    background-color:honeydew;
+    border:1px solid #333;
+}
+#flag-container img{
+    width: %100;
+    height: %100;
+}
+#info-container select{
+    display: block;
+    margin: 70px auto;
+    padding: 5px;
+    min-width: %100;
+    color: #333;
+    font-size: 15px;
+    font-width: 900;
+    text-align-last: center;
+}
